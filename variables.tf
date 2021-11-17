@@ -7,7 +7,7 @@ variable "username" {
 variable "password" {
   description = "Password"
   type        = string
-  default     = "7ftKBCGK...."
+  default     = ""
 }
 
 
